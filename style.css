@@ -1,4 +1,6 @@
-html{
+html {
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
 *{
