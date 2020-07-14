@@ -40,9 +40,9 @@ i{
 	position: relative;
 }
 p{
-	font-size: 0.9rem;
+	font-size: 1.2rem;
 	line-height: 1.6;
-	font-weight: 250;
+	font-weight: 400;
 	color: #606060
 }
 .header:before{
